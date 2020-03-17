@@ -1,0 +1,4 @@
+C:\Users\Maarten\Desktop\OrchestraMGM\OrchestraMGM\OrchestraMGM.csproj;x86
+C:\Users\Maarten\Desktop\OrchestraMGM\OrchestraMGM-Business\OrchestraMGM-Business.csproj;x86
+C:\Users\Maarten\Desktop\OrchestraMGM\OrchestraMGM-Business\OrchestraMGM-Business.csproj;x86
+C:\Users\Maarten\Desktop\OrchestraMGM\OrchestraMGM-Data\OrchestraMGM-Data.csproj;x86
