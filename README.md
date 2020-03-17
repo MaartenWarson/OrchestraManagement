@@ -10,5 +10,5 @@ This application is written in C#. Data needed for this application is stored in
 2. Windows SDK 10 needs to be installed
 3. Run the project
 
-## Further information
+## Further Information
 Queries to the database are made within ADO.NET.
